@@ -16,22 +16,22 @@ Please make sure to first install Unity Editor version 2021.3.6f1, and build the
 
 ###### Viewing the knickknacks in Unity
 To view the knickknacks yourself, you can download the projects source code from the github page.
-![Downloading .zip of the source code from github](https://imgur.com/a/qNiWfcD)
+![Downloading .zip of the source code from github](https://imgur.com/a/qNiWfcD.jpg)
 
 Unzip this file into the directory of your choice. 
 
 In the upper right corner of the Projects tab of Unity Hub, click 'Open'.
-![Opening a new project in Unity Hub](https://imgur.com/jSgcROR)
+![Opening a new project in Unity Hub](https://imgur.com/jSgcROR.jpg)
 
 Navigate to the directory you extracted the project into, select the project folder and press 'Open' once again.
-![Select the project folder](https://imgur.com/6MymIOZ)
+![Select the project folder](https://imgur.com/6MymIOZ.jpg)
 
 The project should now be visible in the list. Make sure the correct Editor version is selected.
-![Project in Unity Hub](https://imgur.com/4c6TZsy)
+![Project in Unity Hub](https://imgur.com/4c6TZsy.jpg)
 
 Click on the project to open it in Unity Editor. It may take a while to load, but once it is open, you should see the two cubes in the scene.
 To view the cubes in AR mode, press the play button in the upper part of the window.
-![Press the play button in Unity Editor](https://imgur.com/jrESw5X)
+![Press the play button in Unity Editor](https://imgur.com/jrESw5X.jpg)
 
 This will open your webcam, and you will be able to view the knickknacks by holding up the two Vuforia cubes you painstakingly built earlier.
 
