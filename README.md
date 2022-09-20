@@ -4,6 +4,8 @@
 
 This is my first project for the CS428: Augmented and Virtual Reality course at UIC. I used Unity with Vuforia to create two AR knickknacks, similar to the kinds of trinkets one can buy at gift shops to remind you of the place you visited. The two destinations I chose were Kennedy Space Center in Florida, USA, and the Golden Bridge in Da Nang, Vietnam.
 
+Each knickknack includes the name of the place it represents, a logo, plus current time and weather conditions of the area. Each cube also has a sound effect associated with it. For the Golden Bridge, I chose a forest background noise; and for Kennedy Space Center, I chose a space-y sci-fi sound. Turning the cube upside down switches the lighting to a different one, and turning it again will switch back. 
+
 ### HOW TO USE
 
 Please make sure to first install Unity Editor version 2021.3.6f1, and build the two papercraft Vuforia cubes.
@@ -102,4 +104,12 @@ I just flipped it in Unity to create a left hand to go with it
 
 7. Da Nang logo from Da Nang goverment official website (https://danang.gov.vn/web/en)
 
+### THE FUTURE OF THIS TECHNOLOGY
+Currently, the process for viewing and interacting with these sorts of AR knickknacks is rather tedious and not really worth the trouble when the novelty wears off after the first or second time trying it (at least in my personal opinion). However, if it does become common to start using eyewear that shows VR objects around us, I can definitely see these sorts of objects becoming popular. Everyone likes collecting useless little objects (citation needed), and if they can do useless little things, that’s all the better!
+
+I think things like little statues or action figures that fans of media franchises often collect would be one good option for a place to use this technology in. Something that is currently static could have all sorts of animations, music, etc. to go with it and make it more exciting. And it doesn’t have to be a 3D object, it could also be used for posters or stickers. And just like this project itself, it could be used for souvenier knickknacks as well. Instead of a regular snowglobe, you can get an AR snowglobe, or an AR fridge magnet. Everyone likes collecting useless little objects (citation needed), and if they can do useless little things, that’s all the better!
+
+It also has great (or terrible, depending on your perspective) ad potential. Imagine animated billboards, or milk cartons that play an advertisement as soon as you pick it up. I definitely think this is one of the biggest ways that the technology will be used in the future. This sounds pretty annoying to me, especially the billboard thing (not to mention potentially dangerous as it could be extremely distracting to drivers) but that has not stopped advertisement before and honestly might be a plus. It offers a new way to grab people's attention, so I'm sure ad companies would jump on the opportunity.
+
+On a more practical level, it could also be used for things like road signs, or maps, as long as it’s reliable enough. It could be pretty useful to have some 3D arrows showing you how to get to the mall bathroom instead of having to trace it out yourself through a map. The only issue I can see is that if it is used in place of purely physical road signs, I can see a moments lag or change in the environment around the sign (without the sign itself being updated) being potentially disastrous. And again, maybe too distracting for the road. So perhaps it is best to stick to physical road signs that do not have the failability of technology like this.
 
