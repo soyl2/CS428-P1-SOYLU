@@ -13,14 +13,14 @@ And here is me holding the two knickknacks.
 
 ### HOW TO USE
 
-Please make sure to first install Unity Editor version 2021.3.6f1, and build the two papercraft Vuforia cubes.
+Please make sure to first install Unity Editor version 2021.3.6f1 ([how to do so](https://github.com/soyl2/CS428-P1-SOYLU/blob/main/README.md#installing-unity)), and build the [two papercraft Vuforia cubes](https://www.evl.uic.edu/aej/428/CubesForVuforia.zip).
 
 ###### REQUIREMENTS:
-- Unity Editor 2021.3.6f1
-- Vuforia 10.10 (should come with the source code)
+- [Unity Editor 2021.3.6f1](https://unity3d.com/get-unity/download/archive)
+- [Vuforia 10.10](https://developer.vuforia.com/downloads/SDK) (should come with the source code)
   - Note for Andy: Using Vuforia 10.9 was causing Unity to constantly crash for me, while 10.10 seems to work. I don't know why.
 - A working webcam
-- Two little Vuforia cubes (https://www.evl.uic.edu/aej/428/CubesForVuforia.zip)
+- [Two little Vuforia cubes](https://www.evl.uic.edu/aej/428/CubesForVuforia.zip) (zip file containing the cubes printout)
 
 #### Viewing the knickknacks in Unity
 
