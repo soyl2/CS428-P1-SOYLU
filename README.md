@@ -11,10 +11,14 @@ Please make sure to first install Unity Editor version 2021.3.6f1, and build the
 ###### REQUIREMENTS:
 - Unity Editor 2021.3.6f1
 - Vuforia 10.10 (should come with the source code)
+  - Note for Andy: Using Vuforia 10.9 was causing Unity to constantly crash for me, while 10.10 seems to work. I don't know why.
 - A working webcam
 - Two little Vuforia cubes
 
-###### Viewing the knickknacks in Unity
+##### Viewing the knickknacks in Unity
+
+**TL;DR: Download source code, open project in Unity, hold up cubes in front of your webcam. **
+
 To view the knickknacks yourself, you can download the projects source code from the github page.
 
 ![Downloading .zip of the source code from github](https://imgur.com/KZUyX48.jpg)
@@ -44,23 +48,35 @@ This will open your webcam, and you will be able to view the knickknacks by hold
 [wip]
 
 ### ASSETS USED
-###### Kennedy Space Center
+##### Kennedy Space Center
 1. Flag model by me
-2, Moon ground model by me
+![](https://imgur.com/lPoeIqV.jpg)
+2. Moon ground model by me
+![](https://imgur.com/tUvlL6F.jpg)
 3. Astronaut by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/dLHpzNdygsg)
-  - I edited to be lower poly using Blender
+![](https://imgur.com/ysXR1h2.jpg)
+I edited it to be lower poly using Blender (for better performance)
 4. Earth by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/88CP80Kgb-u)
+![](https://imgur.com/9cRkecu.jpg)
 5. Rocket ship by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/4mPkOKdzAk-)
-6. US flag from wikimedia commons
-7. Kennedy Space Center logo from 
+![](https://imgur.com/2ZqGScn.jpg)
+6. US flag from Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg)
+7. Kennedy Space Center logo from Wikipedia (https://en.m.wikipedia.org/wiki/File:Kennedy_Space_Center_Logo.svg)
 
-###### Golden Bridge
+##### Golden Bridge
 1. Bridge model by me
+![](https://imgur.com/Cu5DIPk.jpg)
 2. Green knickknack base by me
+![](https://imgur.com/0bGoUpS.jpg)
 3. Low Poly Right Hand by Raziq Brown [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/cl8ax5B13cp)
-  - I just flipped it in Unity to create a left hand to go with it
+![](https://imgur.com/9Og8GYg.jpg)
+I just flipped it in Unity to create a left hand to go with it
 4. Mountain Scene by Mike Boyer [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/erukwNZWue-)
+![](https://imgur.com/TFRVPRB.jpg)
 5. Pine tree by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/bpV3f5je3rl)
+![](https://imgur.com/VvF2n8O.jpg)
 6. Cloud by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/44cGXp6_8WD)
+![](https://imgur.com/KPEc4UD.jpg)
+7. Da Nang logo from Da Nang goverment official website (https://danang.gov.vn/web/en)
 
 
