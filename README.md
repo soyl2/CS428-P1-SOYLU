@@ -8,7 +8,7 @@ Each knickknack includes the name of the place it represents, a logo, plus curre
 
 Here is the video for the project: https://youtu.be/pwgtuoSETZQ
 
-![sorry about my hair](https://imgur.com/undefined.jpg)
+![sorry about my hair](https://imgur.com/BKZOft1.jpg)
 And here is me holding the two knickknacks.
 
 ### HOW TO USE
@@ -70,44 +70,54 @@ You should have it install:
 #### Kennedy Space Center
 1. Flag model by me
 ![](https://imgur.com/lPoeIqV.jpg)
+It was surprisingly annoying trying to get the flag to be the right side up on both sides.
 
 2. Moon ground model by me
 ![](https://imgur.com/tUvlL6F.jpg)
+Made in Blender, I thought the base would look nicer with a bit of a tilt to it rather than a simple cube. 
 
 3. Astronaut by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/dLHpzNdygsg)
 ![](https://imgur.com/ysXR1h2.jpg)
-I edited it to be lower poly using Blender (for better performance)
+I edited it to be lower poly using Blender (for better performance). I guess this is Neil Armstrong.
 
 4. Earth by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/88CP80Kgb-u)
 ![](https://imgur.com/9cRkecu.jpg)
+It's always really cool to see pictures of the earth from space, and I thought having it there would help with the atmosphere. I lit it up from the bottom to help with the look.
 
 5. Rocket ship by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/4mPkOKdzAk-)
 ![](https://imgur.com/2ZqGScn.jpg)
+I wanted to use the actual Apollo 11 Lunar Module here instead, but every model I could find online (especially the official NASA one) was way too detailed and too difficult for me to simplify in Blender. The rocket ship might get the idea across better anyway.
 
 6. US flag from Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg)
 7. Kennedy Space Center logo from Wikipedia (https://en.m.wikipedia.org/wiki/File:Kennedy_Space_Center_Logo.svg)
+8. Sci Fi Vortex sound effect by Audio Library on YouTube (https://www.youtube.com/watch?v=evsCVTs-_s8&list=PL4JKIH8uMAXyIKJLlZlrYUJzi0_iTAS_3&index=2)
 
 #### Golden Bridge
 1. Bridge model by me
 ![](https://imgur.com/Cu5DIPk.jpg)
+It's a nice shiny gold, just like the Golden Bridge name implies. The bridge itself is held between the two giant hands, and it looks pretty cool.
 
 2. Green knickknack base by me
-![](https://imgur.com/0bGoUpS.jpg)
+I thought the knickknack would look nicer with a thicker raised base, and the mountain scene model I was using was too thin. It's just a simple green box.
 
 3. Low Poly Right Hand by Raziq Brown [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/cl8ax5B13cp)
 ![](https://imgur.com/9Og8GYg.jpg)
-I just flipped it in Unity to create a left hand to go with it
+I just flipped it in Unity to create a left hand to go with it. These represent the two giant hands built to look like they are holding the bridge up.
 
 4. Mountain Scene by Mike Boyer [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/erukwNZWue-)
 ![](https://imgur.com/TFRVPRB.jpg)
+The actual Golden Bridge is pretty high up and has a wonderful view of the landscape around, and I thought this was a nice representation.
 
 5. Pine tree by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/bpV3f5je3rl)
 ![](https://imgur.com/VvF2n8O.jpg)
+The bridge also has a huge forest around it, and it has a lot of pine trees!
 
 6. Cloud by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/44cGXp6_8WD)
 ![](https://imgur.com/KPEc4UD.jpg)
+I thought these clouds would help the knickknack look nicer while representing how high up the bridge is. It's also quite common to have mist roll in around the bridge, so this helps with that look.
 
 7. Da Nang logo from Da Nang goverment official website (https://danang.gov.vn/web/en)
+8. Forest Ambience by Travel Bucket on YouTube (https://www.youtube.com/watch?v=H9L1tsQuuSI)
 
 ### THE FUTURE OF THIS TECHNOLOGY
 Currently, the process for viewing and interacting with these sorts of AR knickknacks is rather tedious and not really worth the trouble when the novelty wears off after the first or second time trying it (at least in my personal opinion). However, if it does become common to start using eyewear that shows VR objects around us, I can definitely see these sorts of objects becoming popular. Everyone likes collecting useless little objects (citation needed), and if they can do useless little things, that’s all the better!
