@@ -45,38 +45,61 @@ To view the cubes in AR mode, press the play button in the upper part of the win
 This will open your webcam, and you will be able to view the knickknacks by holding up the two Vuforia cubes you painstakingly built earlier.
 
 ###### Installing Unity:
-[wip]
+Go to https://unity.com/ and download and install Unity Hub. Once you have it ready, open it and click Installs, and then Install Editor to add a new Unity version. For version **2021.3.6f1**, which is the version I used to create this program, we have to click the Archive tab and then the Long-Term Support text to open the online download archive in your browser. Click on LTS Release 2021.3.6f1 and Unity Hub will start installing that version. (Note: other/newer versions of Unity might still work with this project, but this is the version I worked with.)
+
+You should have it install:
+
+- Unity
+- Documentation
+- Android Build Support (for running on the Oculus Quest, or Android Smartphone)
+  - click on the little arrow and make sure Android SDK & NDK Tools and OpenJDK are both selected
+- iOS Build Support
+
+**NOTE:** You will need to be admin / root to install Unity in the default location, otherwise Unity Hub will download the files and then fail (mostly silently) on the install. To get around this you can click on the gear on the left pane of Unity Hub, click on Installs, and then change the Installs Location to a place you do have write access to, say somewhere in your home directory.
+
+*Unity installation instructions adapted from Andy Johnson's CS428 website (https://www.evl.uic.edu/aej/428/syllabus.html)*
 
 ### ASSETS USED
 ##### Kennedy Space Center
 1. Flag model by me
 ![](https://imgur.com/lPoeIqV.jpg)
+
 2. Moon ground model by me
 ![](https://imgur.com/tUvlL6F.jpg)
+
 3. Astronaut by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/dLHpzNdygsg)
 ![](https://imgur.com/ysXR1h2.jpg)
 I edited it to be lower poly using Blender (for better performance)
+
 4. Earth by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/88CP80Kgb-u)
 ![](https://imgur.com/9cRkecu.jpg)
+
 5. Rocket ship by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/4mPkOKdzAk-)
 ![](https://imgur.com/2ZqGScn.jpg)
+
 6. US flag from Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg)
 7. Kennedy Space Center logo from Wikipedia (https://en.m.wikipedia.org/wiki/File:Kennedy_Space_Center_Logo.svg)
 
 ##### Golden Bridge
 1. Bridge model by me
 ![](https://imgur.com/Cu5DIPk.jpg)
+
 2. Green knickknack base by me
 ![](https://imgur.com/0bGoUpS.jpg)
+
 3. Low Poly Right Hand by Raziq Brown [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/cl8ax5B13cp)
 ![](https://imgur.com/9Og8GYg.jpg)
 I just flipped it in Unity to create a left hand to go with it
+
 4. Mountain Scene by Mike Boyer [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/erukwNZWue-)
 ![](https://imgur.com/TFRVPRB.jpg)
+
 5. Pine tree by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/bpV3f5je3rl)
 ![](https://imgur.com/VvF2n8O.jpg)
+
 6. Cloud by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/44cGXp6_8WD)
 ![](https://imgur.com/KPEc4UD.jpg)
+
 7. Da Nang logo from Da Nang goverment official website (https://danang.gov.vn/web/en)
 
 
