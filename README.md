@@ -13,7 +13,7 @@ Please make sure to first install Unity Editor version 2021.3.6f1, and build the
 - Vuforia 10.10 (should come with the source code)
   - Note for Andy: Using Vuforia 10.9 was causing Unity to constantly crash for me, while 10.10 seems to work. I don't know why.
 - A working webcam
-- Two little Vuforia cubes
+- Two little Vuforia cubes (https://www.evl.uic.edu/aej/428/CubesForVuforia.zip)
 
 ##### Viewing the knickknacks in Unity
 
