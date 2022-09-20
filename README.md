@@ -6,6 +6,11 @@ This is my first project for the CS428: Augmented and Virtual Reality course at 
 
 Each knickknack includes the name of the place it represents, a logo, plus current time and weather conditions of the area. Each cube also has a sound effect associated with it. For the Golden Bridge, I chose a forest background noise; and for Kennedy Space Center, I chose a space-y sci-fi sound. Turning the cube upside down switches the lighting to a different one, and turning it again will switch back. 
 
+Here is the video for the project: https://youtu.be/pwgtuoSETZQ
+
+![sorry about my hair](https://imgur.com/undefined.jpg)
+And here is me holding the two knickknacks.
+
 ### HOW TO USE
 
 Please make sure to first install Unity Editor version 2021.3.6f1, and build the two papercraft Vuforia cubes.
@@ -17,7 +22,7 @@ Please make sure to first install Unity Editor version 2021.3.6f1, and build the
 - A working webcam
 - Two little Vuforia cubes (https://www.evl.uic.edu/aej/428/CubesForVuforia.zip)
 
-##### Viewing the knickknacks in Unity
+#### Viewing the knickknacks in Unity
 
 **TL;DR: Download source code, open project in Unity, hold up cubes in front of your webcam. **
 
@@ -46,7 +51,7 @@ To view the cubes in AR mode, press the play button in the upper part of the win
 
 This will open your webcam, and you will be able to view the knickknacks by holding up the two Vuforia cubes you painstakingly built earlier.
 
-###### Installing Unity:
+##### Installing Unity:
 Go to https://unity.com/ and download and install Unity Hub. Once you have it ready, open it and click Installs, and then Install Editor to add a new Unity version. For version **2021.3.6f1**, which is the version I used to create this program, we have to click the Archive tab and then the Long-Term Support text to open the online download archive in your browser. Click on LTS Release 2021.3.6f1 and Unity Hub will start installing that version. (Note: other/newer versions of Unity might still work with this project, but this is the version I worked with.)
 
 You should have it install:
@@ -62,7 +67,7 @@ You should have it install:
 *Unity installation instructions adapted from Andy Johnson's CS428 website (https://www.evl.uic.edu/aej/428/syllabus.html)*
 
 ### ASSETS USED
-##### Kennedy Space Center
+#### Kennedy Space Center
 1. Flag model by me
 ![](https://imgur.com/lPoeIqV.jpg)
 
@@ -82,7 +87,7 @@ I edited it to be lower poly using Blender (for better performance)
 6. US flag from Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg)
 7. Kennedy Space Center logo from Wikipedia (https://en.m.wikipedia.org/wiki/File:Kennedy_Space_Center_Logo.svg)
 
-##### Golden Bridge
+#### Golden Bridge
 1. Bridge model by me
 ![](https://imgur.com/Cu5DIPk.jpg)
 
